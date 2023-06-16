@@ -30,7 +30,7 @@ import axios from 'axios'
 export default {
   data() {
     return {
-      response:'Hatutaki!!',
+      response:'',
       AllProjects:[]
     }
   },
