@@ -1,20 +1,15 @@
 # CONNECTING AXIOS IN VUEJS
 
 ## STEPS
-<ul>
-<li>```sh
+
+```sh
 git clone git@github.com:leonTech254/VUEJS-AXIOS.git
-```</li>
-<li>
+```
+
 ```sh
 npm install
 ```
-</li>
-<li>```sh
+
+```sh
 npm run dev 
-```</li>
-</ul>
-
-
-
-
+```
